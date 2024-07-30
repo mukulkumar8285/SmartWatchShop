@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SmartWatchShop/static/css/main.85d45968.css",
+    "main.js": "/SmartWatchShop/static/js/main.959f2ec2.js",
+    "static/js/453.c1300c2b.chunk.js": "/SmartWatchShop/static/js/453.c1300c2b.chunk.js",
+    "index.html": "/SmartWatchShop/index.html",
+    "main.85d45968.css.map": "/SmartWatchShop/static/css/main.85d45968.css.map",
+    "main.959f2ec2.js.map": "/SmartWatchShop/static/js/main.959f2ec2.js.map",
+    "453.c1300c2b.chunk.js.map": "/SmartWatchShop/static/js/453.c1300c2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d45968.css",
+    "static/js/main.959f2ec2.js"
+  ]
+}
